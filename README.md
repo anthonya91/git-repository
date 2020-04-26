@@ -1,4 +1,4 @@
-# Indeed Webscraping and Data Analysis Project
+# Indeed COVID-19 Webscraping and Data Analysis Project
 
 This project was done to display my ability and understanding of the following tools:
   - Selenium
@@ -15,4 +15,11 @@ Using these tools I was able to scrape 5,000 job postings from Indeed.com along 
   - Summary
   - Requirements
  
- I was then able to create a DataFrame utilizing this data to further clean, analyze and normalize the data.
+ I was then able to create a DataFrame utilizing this data to further clean, analyze and normalize the data
+ to answer various questions such as:
+ 
+1. What jobs are most prevalent during COVID?
+2. What Locations are jobs in demand?
+3. which Companies are hiring the most?
+4. What are the salary expectations for these jobs?
+
