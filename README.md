@@ -19,7 +19,7 @@ Using these tools I was able to scrape 5,000 job postings from Indeed.com along 
  to answer various questions such as:
  
 1. What jobs are most prevalent during COVID?
-2. What Locations are jobs in demand?
-3. which Companies are hiring the most?
+2. which Locations have a need for employment due to COVID?
+3. which Companies are hiring the most in relation to COVID?
 4. What are the salary expectations for these jobs?
 
